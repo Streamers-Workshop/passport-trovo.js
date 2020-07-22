@@ -12,7 +12,7 @@
 ![dev dependencies](https://img.shields.io/david/dev/Bioblaze/passport-trovo.js.svg)
 
 [![Code Climate](https://codeclimate.com/github/Bioblaze/passport-trovo.js/badges/gpa.svg)](https://codeclimate.com/github/Bioblaze/passport-trovo.js)
-[![Trovo Chat](https://img.shields.io/discord/165374225320771586.svg)](https://discord.gg/abQqEEC)  
+[![Trovo Chat](https://img.shields.io/discord/728527921504845884.svg)](https://discord.gg/abQqEEC)  
 [![PayPal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/BioblazePayne)
 
 Trovo is a trademark or registered trademark of TLive LLC. in the U.S. and/or other countries. "passport-trovo.js" is not operated by, sponsored by, or affiliated with TLive LLC. in any way.
