@@ -12,12 +12,12 @@
 ![dev dependencies](https://img.shields.io/david/dev/Bioblaze/passport-trovo.js.svg)
 
 [![Code Climate](https://codeclimate.com/github/Bioblaze/passport-trovo.js/badges/gpa.svg)](https://codeclimate.com/github/Bioblaze/passport-trovo.js)
-[![Trovo Chat](https://img.shields.io/trovo/165374225320771586.svg)](https://trovo.gg/T8uVhzU)  
+[![Trovo Chat](https://img.shields.io/trovo/165374225320771586.svg)](https://discord.gg/abQqEEC)  
 [![PayPal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/BioblazePayne)
 
 Trovo is a trademark or registered trademark of TLive LLC. in the U.S. and/or other countries. "passport-trovo.js" is not operated by, sponsored by, or affiliated with TLive LLC. in any way.
 
-[Passport](http://passportjs.org/) strategies for authenticating with [Trovo](https://trovoapp.com/)
+[Passport](http://passportjs.org/) strategies for authenticating with [Trovo](https://trovo.live/)
 using OAuth 2.0 API.
 
 This module lets you authenticate using Trovo in your Node.js applications.
